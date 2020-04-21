@@ -1,1 +1,1 @@
-# Simple_Blog.github.io
+# Sample_Blog.github.io
