@@ -1,5 +1,5 @@
-# SampleBlog.github.io
+# sampleblog.github.io
 
 
 
-[SampleBlog](https://SampleBlog.github.io/site/)
+[sampleblog](https://sampleblog.github.io/site/)
